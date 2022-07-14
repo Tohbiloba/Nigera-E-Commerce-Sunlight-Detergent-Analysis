@@ -4,12 +4,12 @@
 3. To find out states where the product has coverage and how to improve on the coverage
 4. To find out the rate of anomalies in the order for the product 
 
-Data Source
+# Data Source
 The data was sourced from Kaggle. 
 
 ![image](https://user-images.githubusercontent.com/101842162/179009577-37b23ee5-0385-4e50-b53d-717ca9dcf824.png)
 
-Data Preparation
+# Data Preparation
 The data comprises of 3498 rows and 16 column. The column names includes Order ID, Branch Location, Branch Name, Business Name, Is Deleted, Item ID, Item Name, Item Price, Order Item Number, Item Status, Packed Quantity, Quantity, Total Price, Order Date, Order Region and Order Local Area.
 
 ![image](https://user-images.githubusercontent.com/101842162/179009824-98cc3848-6205-4b74-b90c-735091fd115a.png)
@@ -18,12 +18,12 @@ The empty cells in the Order region column were filled with the corresponding Or
 
 ![image](https://user-images.githubusercontent.com/101842162/179010374-296acec8-7de3-4f88-aa10-9308a2ad696b.png)
 
-Some of the cleaning process carried out include using the Replace Function to replace Sunlight Destiny Powder Yellow-900g with Sunlight Destiny Powder Yellow 900g so as to have a unique data.
+Some of the cleaning process carried out include the use of Replace Function to replace Sunlight Destiny Powder Yellow-900g with Sunlight Destiny Powder Yellow 900g so as to have a unique data.
 
-Data Analysis 
+# Data Analysis 
 The Analysis and Visualisation were carried out in Power BI.The use of DAX measures such as the Calculate and a calculated column was also created. 
 
-Data Visualisation
+# Data Visualisation
 In the dashboard created Cards were used to visualize some of the values gotten via the measures created; KPIs.
 
 ![image](https://user-images.githubusercontent.com/101842162/179012392-452971c2-c330-4b8e-8e09-7f2500060f8f.png)
@@ -42,6 +42,6 @@ Donut Chart was used to visualise the Status of the sales i.e. Delivered, Cancel
 
 Stacked Bar Chart was used to visualize the sales recorded by the Branches. This is to find out what Branch is bringing in more sales than the other. The Month and Location Slicer will further clarify what Month and Region each Branch makes more sales.
 
-Dashboard
+# Dashboard
 
 ![image](https://user-images.githubusercontent.com/101842162/179013521-3e81755a-e538-45fa-bc7c-8b86f9d23582.png)
