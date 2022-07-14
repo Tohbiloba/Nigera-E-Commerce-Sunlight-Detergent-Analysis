@@ -1,6 +1,4 @@
-# Nigera-E-Commerce-Sunlight-Detergent-Analysis
-
-Project Objective
+# Project Objective
 1. To find out the sales trend of the product across 4 months
 2. To find out which branch is bringing in more revenue
 3. To find out states where the product has coverage and how to improve on the coverage
